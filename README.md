@@ -16,5 +16,5 @@ The Software Requirement:
 -> bind9 as the DNS server 
 -> MySQL server for managing user Credentials(for authenticative portal)
 
-                                                                       *** THE PROJECT IS IN DEVELOPING STAGE ***
+* THE PROJECT IS IN DEVELOPING STAGE *
 
